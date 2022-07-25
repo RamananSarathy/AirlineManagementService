@@ -1,6 +1,9 @@
 # AirlineManagementService
 
-Project Description
+Project Description:
+
+The Airline Management Service is a web-based application that handles ticket booking. A user can reserve their seats, select their stopping points, and place their ticket orders based on their needs.
+
 * About Airline: 3 types of seating: Economy, Business Class, First Class, minimum of 100 seats 
 
 * Timimgs: 24/7 types of flight: direct, one stop and two stops, depending on the airline route. 
