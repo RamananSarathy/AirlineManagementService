@@ -11,7 +11,7 @@ The Airline Management Service is a web-based application that handles ticket bo
 
 * Travel Hours: For direct flights set minimum travel time for every stop increase time by 2 hours for boarding and other flight management issues, along with that consider the time gap between the connecting flights 
 
-* Price: Bussiness, Economy, First Class.
+* Price: Business, Economy, First Class.
 
 ## Technologies Used
 
